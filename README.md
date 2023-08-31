@@ -1,6 +1,6 @@
-# FILMPIRE - Shubham Kadam
+# FILMPIRE - Sakshi Jha
 
-[View Demo](https://filmpire-ssk.netlify.app/)
+[View Demo](https://sakshi-jha-trippy.netlify.app)
 
 ## About the Project
 
