@@ -1,6 +1,6 @@
 # FILMPIRE - Sakshi Jha
 
-[View Demo](https://sakshi-jha-trippy.netlify.app)
+[View Demo](https://sakshi-jha-filmpire.netlify.app/)
 
 ## About the Project
 
